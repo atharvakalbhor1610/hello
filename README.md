@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **MERN, Django**
 
-- 👨‍💻 All of my projects are available at [https://github.com/atharvakalbhor16](https://github.com/atharvakalbhor16)
-
-- 📫 How to reach me **atharvakalbhor16@gmail.com**
+- 📫 How to reach me **atharva.kalbhor@mmit.edu.in**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1bkzdJFTwnWewGEf4VzTeYJZvoMtB8NsB/view?usp=sharing](https://drive.google.com/file/d/1bkzdJFTwnWewGEf4VzTeYJZvoMtB8NsB/view?usp=sharing)
 
